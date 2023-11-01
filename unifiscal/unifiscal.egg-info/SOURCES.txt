@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+unifiscal/__init__.py
+unifiscal/__main__.py
+unifiscal/bot.py
+unifiscal.egg-info/PKG-INFO
+unifiscal.egg-info/SOURCES.txt
+unifiscal.egg-info/dependency_links.txt
+unifiscal.egg-info/requires.txt
+unifiscal.egg-info/top_level.txt
+unifiscal/resources/start.png
